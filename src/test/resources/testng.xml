@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Cucumber Suite" parallel="false">
+    <test name="Feature Execution in Order">
+        <classes>
+            <class name="com.assignment.runners.TestRunner1"/>
+        </classes>
+    </test>
+</suite>
